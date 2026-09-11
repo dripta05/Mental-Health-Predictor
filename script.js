@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "http://127.0.0.1:8000";
+  const API_BASE = "https://mental-health-predictor-7w4y.onrender.com";
   const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   /* =========================================================
